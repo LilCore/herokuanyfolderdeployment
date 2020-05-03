@@ -1,4 +1,4 @@
-# Script para hacer despliegue de un directorio especifico en Heroku
+# Script para hacer despliegue de un directorio específico en Heroku
 
 Seguir video: https://www.youtube.com/watch?v=-j5gM2lCDus
 
